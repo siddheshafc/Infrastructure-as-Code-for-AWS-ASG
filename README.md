@@ -1,4 +1,4 @@
-# Infrastructure-as-Code-for-AWS-ASG
+# Infrastructure as Code using Terraform - AWS
 Automating Auto Scaling Group in AWS Using Terraform
 
 This project demonstrates how to deploy an AWS Auto Scaling Group (ASG) behind an Application Load Balancer (ALB) using Terraform. It provisions web servers using an EC2 Launch Template with an Ubuntu 22.04 image, managed by an Auto Scaling Group. The web servers are accessible through an ALB, and they serve a basic webpage using apache httpd.
